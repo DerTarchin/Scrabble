@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BugCollection version="3.0.0" sequence="0" timestamp="1445472664029" analysisTimestamp="1445472664066" release="">
+  <Project projectName="">
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/build/classes/main/edu/cmu/cs/cs214/hw4/core/BlankTile.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/build/classes/main/edu/cmu/cs/cs214/hw4/core/Board.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/build/classes/main/edu/cmu/cs/cs214/hw4/core/BoomTile.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/build/classes/main/edu/cmu/cs/cs214/hw4/core/Coord.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/build/classes/main/edu/cmu/cs/cs214/hw4/core/Dictionary.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/build/classes/main/edu/cmu/cs/cs214/hw4/core/Game.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/build/classes/main/edu/cmu/cs/cs214/hw4/core/LetterTile.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/build/classes/main/edu/cmu/cs/cs214/hw4/core/NegativeTile.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/build/classes/main/edu/cmu/cs/cs214/hw4/core/Player.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/build/classes/main/edu/cmu/cs/cs214/hw4/core/ReverseTile.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/build/classes/main/edu/cmu/cs/cs214/hw4/core/ShuffleTile.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/build/classes/main/edu/cmu/cs/cs214/hw4/core/SpecialTile.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/build/classes/main/edu/cmu/cs/cs214/hw4/core/Square.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/build/classes/main/edu/cmu/cs/cs214/hw4/core/TestAlgorithmClass.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/build/classes/main/edu/cmu/cs/cs214/hw4/core/Tile.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/build/classes/main/edu/cmu/cs/cs214/hw4/gui/textUI.class</Jar>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/BlankTile.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/Board.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/BoomTile.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/Coord.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/Dictionary.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/Game.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/LetterTile.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/NegativeTile.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/Player.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/ReverseTile.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/ShuffleTile.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/SpecialTile.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/Square.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/TestAlgorithmClass.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/Tile.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/textUI.java</SrcDir>
+  </Project>
+  <BugInstance type="DM_DEFAULT_ENCODING" priority="1" rank="19" abbrev="Dm" category="I18N">
+    <Class classname="edu.cmu.cs.cs214.hw4.core.Board">
+      <SourceLine classname="edu.cmu.cs.cs214.hw4.core.Board" start="31" end="514" sourcefile="Board.java" sourcepath="edu/cmu/cs/cs214/hw4/core/Board.java"/>
+    </Class>
+    <Method classname="edu.cmu.cs.cs214.hw4.core.Board" name="initScoreModifiers" signature="()V" isStatic="false">
+      <SourceLine classname="edu.cmu.cs.cs214.hw4.core.Board" start="495" end="503" startBytecode="0" endBytecode="215" sourcefile="Board.java" sourcepath="edu/cmu/cs/cs214/hw4/core/Board.java"/>
+    </Method>
+    <Method classname="java.util.Scanner" name="&lt;init&gt;" signature="(Ljava/io/File;)V" isStatic="false" role="METHOD_CALLED">
+      <SourceLine classname="java.util.Scanner" start="611" end="612" startBytecode="0" endBytecode="43" sourcefile="Scanner.java" sourcepath="java/util/Scanner.java"/>
+    </Method>
+    <SourceLine classname="edu.cmu.cs.cs214.hw4.core.Board" start="495" end="495" startBytecode="33" endBytecode="33" sourcefile="Board.java" sourcepath="edu/cmu/cs/cs214/hw4/core/Board.java"/>
+  </BugInstance>
+  <BugInstance type="SBSC_USE_STRINGBUFFER_CONCATENATION" priority="2" rank="18" abbrev="SBSC" category="PERFORMANCE">
+    <Class classname="edu.cmu.cs.cs214.hw4.core.Board">
+      <SourceLine classname="edu.cmu.cs.cs214.hw4.core.Board" start="31" end="514" sourcefile="Board.java" sourcepath="edu/cmu/cs/cs214/hw4/core/Board.java"/>
+    </Class>
+    <Method classname="edu.cmu.cs.cs214.hw4.core.Board" name="isLegalMove" signature="(Ljava/util/ArrayList;Ljava/lang/String;)Z" isStatic="false">
+      <SourceLine classname="edu.cmu.cs.cs214.hw4.core.Board" start="325" end="406" startBytecode="0" endBytecode="1522" sourcefile="Board.java" sourcepath="edu/cmu/cs/cs214/hw4/core/Board.java"/>
+    </Method>
+    <SourceLine classname="edu.cmu.cs.cs214.hw4.core.Board" start="330" end="330" startBytecode="30" endBytecode="30" sourcefile="Board.java" sourcepath="edu/cmu/cs/cs214/hw4/core/Board.java"/>
+  </BugInstance>
+  <BugInstance type="SBSC_USE_STRINGBUFFER_CONCATENATION" priority="2" rank="18" abbrev="SBSC" category="PERFORMANCE">
+    <Class classname="edu.cmu.cs.cs214.hw4.core.Board">
+      <SourceLine classname="edu.cmu.cs.cs214.hw4.core.Board" start="31" end="514" sourcefile="Board.java" sourcepath="edu/cmu/cs/cs214/hw4/core/Board.java"/>
+    </Class>
+    <Method classname="edu.cmu.cs.cs214.hw4.core.Board" name="toString" signature="()Ljava/lang/String;" isStatic="false">
+      <SourceLine classname="edu.cmu.cs.cs214.hw4.core.Board" start="507" end="514" startBytecode="0" endBytecode="207" sourcefile="Board.java" sourcepath="edu/cmu/cs/cs214/hw4/core/Board.java"/>
+    </Method>
+    <SourceLine classname="edu.cmu.cs.cs214.hw4.core.Board" start="510" end="510" startBytecode="23" endBytecode="23" sourcefile="Board.java" sourcepath="edu/cmu/cs/cs214/hw4/core/Board.java"/>
+  </BugInstance>
+  <BugInstance type="DM_DEFAULT_ENCODING" priority="1" rank="19" abbrev="Dm" category="I18N">
+    <Class classname="edu.cmu.cs.cs214.hw4.core.Dictionary">
+      <SourceLine classname="edu.cmu.cs.cs214.hw4.core.Dictionary" start="22" end="47" sourcefile="Dictionary.java" sourcepath="edu/cmu/cs/cs214/hw4/core/Dictionary.java"/>
+    </Class>
+    <Method classname="edu.cmu.cs.cs214.hw4.core.Dictionary" name="isWord" signature="(Ljava/lang/String;)Z" isStatic="false">
+      <SourceLine classname="edu.cmu.cs.cs214.hw4.core.Dictionary" start="35" end="47" startBytecode="0" endBytecode="232" sourcefile="Dictionary.java" sourcepath="edu/cmu/cs/cs214/hw4/core/Dictionary.java"/>
+    </Method>
+    <Method classname="java.util.Scanner" name="&lt;init&gt;" signature="(Ljava/io/File;)V" isStatic="false" role="METHOD_CALLED">
+      <SourceLine classname="java.util.Scanner" start="611" end="612" startBytecode="0" endBytecode="43" sourcefile="Scanner.java" sourcepath="java/util/Scanner.java"/>
+    </Method>
+    <SourceLine classname="edu.cmu.cs.cs214.hw4.core.Dictionary" start="35" end="35" startBytecode="8" endBytecode="8" sourcefile="Dictionary.java" sourcepath="edu/cmu/cs/cs214/hw4/core/Dictionary.java"/>
+  </BugInstance>
+  <BugInstance type="DM_DEFAULT_ENCODING" priority="1" rank="19" abbrev="Dm" category="I18N">
+    <Class classname="edu.cmu.cs.cs214.hw4.core.Game">
+      <SourceLine classname="edu.cmu.cs.cs214.hw4.core.Game" start="17" end="362" sourcefile="Game.java" sourcepath="edu/cmu/cs/cs214/hw4/core/Game.java"/>
+    </Class>
+    <Method classname="edu.cmu.cs.cs214.hw4.core.Game" name="initTileBag" signature="()V" isStatic="false">
+      <SourceLine classname="edu.cmu.cs.cs214.hw4.core.Game" start="56" end="69" startBytecode="0" endBytecode="323" sourcefile="Game.java" sourcepath="edu/cmu/cs/cs214/hw4/core/Game.java"/>
+    </Method>
+    <Method classname="java.util.Scanner" name="&lt;init&gt;" signature="(Ljava/io/File;)V" isStatic="false" role="METHOD_CALLED">
+      <SourceLine classname="java.util.Scanner" start="611" end="612" startBytecode="0" endBytecode="43" sourcefile="Scanner.java" sourcepath="java/util/Scanner.java"/>
+    </Method>
+    <SourceLine classname="edu.cmu.cs.cs214.hw4.core.Game" start="56" end="56" startBytecode="35" endBytecode="35" sourcefile="Game.java" sourcepath="edu/cmu/cs/cs214/hw4/core/Game.java"/>
+  </BugInstance>
+  <BugInstance type="SBSC_USE_STRINGBUFFER_CONCATENATION" priority="2" rank="18" abbrev="SBSC" category="PERFORMANCE">
+    <Class classname="edu.cmu.cs.cs214.hw4.core.Player">
+      <SourceLine classname="edu.cmu.cs.cs214.hw4.core.Player" start="16" end="144" sourcefile="Player.java" sourcepath="edu/cmu/cs/cs214/hw4/core/Player.java"/>
+    </Class>
+    <Method classname="edu.cmu.cs.cs214.hw4.core.Player" name="rackToString" signature="()Ljava/lang/String;" isStatic="false">
+      <SourceLine classname="edu.cmu.cs.cs214.hw4.core.Player" start="87" end="90" startBytecode="0" endBytecode="182" sourcefile="Player.java" sourcepath="edu/cmu/cs/cs214/hw4/core/Player.java"/>
+    </Method>
+    <SourceLine classname="edu.cmu.cs.cs214.hw4.core.Player" start="89" end="89" startBytecode="16" endBytecode="16" sourcefile="Player.java" sourcepath="edu/cmu/cs/cs214/hw4/core/Player.java"/>
+  </BugInstance>
+  <BugInstance type="DM_DEFAULT_ENCODING" priority="1" rank="19" abbrev="Dm" category="I18N">
+    <Class classname="edu.cmu.cs.cs214.hw4.core.TestAlgorithmClass">
+      <SourceLine classname="edu.cmu.cs.cs214.hw4.core.TestAlgorithmClass" start="14" end="418" sourcefile="TestAlgorithmClass.java" sourcepath="edu/cmu/cs/cs214/hw4/core/TestAlgorithmClass.java"/>
+    </Class>
+    <Method classname="edu.cmu.cs.cs214.hw4.core.TestAlgorithmClass" name="isWord" signature="(Ljava/lang/String;)Z" isStatic="true">
+      <SourceLine classname="edu.cmu.cs.cs214.hw4.core.TestAlgorithmClass" start="403" end="418" startBytecode="0" endBytecode="226" sourcefile="TestAlgorithmClass.java" sourcepath="edu/cmu/cs/cs214/hw4/core/TestAlgorithmClass.java"/>
+    </Method>
+    <Method classname="java.util.Scanner" name="&lt;init&gt;" signature="(Ljava/io/File;)V" isStatic="false" role="METHOD_CALLED">
+      <SourceLine classname="java.util.Scanner" start="611" end="612" startBytecode="0" endBytecode="43" sourcefile="Scanner.java" sourcepath="java/util/Scanner.java"/>
+    </Method>
+    <SourceLine classname="edu.cmu.cs.cs214.hw4.core.TestAlgorithmClass" start="406" end="406" startBytecode="15" endBytecode="15" sourcefile="TestAlgorithmClass.java" sourcepath="edu/cmu/cs/cs214/hw4/core/TestAlgorithmClass.java"/>
+  </BugInstance>
+  <BugInstance type="SBSC_USE_STRINGBUFFER_CONCATENATION" priority="2" rank="18" abbrev="SBSC" category="PERFORMANCE">
+    <Class classname="edu.cmu.cs.cs214.hw4.core.TestAlgorithmClass">
+      <SourceLine classname="edu.cmu.cs.cs214.hw4.core.TestAlgorithmClass" start="14" end="418" sourcefile="TestAlgorithmClass.java" sourcepath="edu/cmu/cs/cs214/hw4/core/TestAlgorithmClass.java"/>
+    </Class>
+    <Method classname="edu.cmu.cs.cs214.hw4.core.TestAlgorithmClass" name="isLegalAdj" signature="(Ljava/util/ArrayList;Ljava/lang/String;)Z" isStatic="true">
+      <SourceLine classname="edu.cmu.cs.cs214.hw4.core.TestAlgorithmClass" start="344" end="397" startBytecode="0" endBytecode="1046" sourcefile="TestAlgorithmClass.java" sourcepath="edu/cmu/cs/cs214/hw4/core/TestAlgorithmClass.java"/>
+    </Method>
+    <SourceLine classname="edu.cmu.cs.cs214.hw4.core.TestAlgorithmClass" start="387" end="387" startBytecode="530" endBytecode="530" sourcefile="TestAlgorithmClass.java" sourcepath="edu/cmu/cs/cs214/hw4/core/TestAlgorithmClass.java"/>
+  </BugInstance>
+  <BugInstance type="SBSC_USE_STRINGBUFFER_CONCATENATION" priority="2" rank="18" abbrev="SBSC" category="PERFORMANCE">
+    <Class classname="edu.cmu.cs.cs214.hw4.core.TestAlgorithmClass">
+      <SourceLine classname="edu.cmu.cs.cs214.hw4.core.TestAlgorithmClass" start="14" end="418" sourcefile="TestAlgorithmClass.java" sourcepath="edu/cmu/cs/cs214/hw4/core/TestAlgorithmClass.java"/>
+    </Class>
+    <Method classname="edu.cmu.cs.cs214.hw4.core.TestAlgorithmClass" name="isLegalMove" signature="(Ljava/util/ArrayList;Ljava/lang/String;)Z" isStatic="true">
+      <SourceLine classname="edu.cmu.cs.cs214.hw4.core.TestAlgorithmClass" start="254" end="340" startBytecode="0" endBytecode="1406" sourcefile="TestAlgorithmClass.java" sourcepath="edu/cmu/cs/cs214/hw4/core/TestAlgorithmClass.java"/>
+    </Method>
+    <SourceLine classname="edu.cmu.cs.cs214.hw4.core.TestAlgorithmClass" start="264" end="264" startBytecode="29" endBytecode="29" sourcefile="TestAlgorithmClass.java" sourcepath="edu/cmu/cs/cs214/hw4/core/TestAlgorithmClass.java"/>
+  </BugInstance>
+  <BugInstance type="UUF_UNUSED_FIELD" priority="2" rank="18" abbrev="UuF" category="PERFORMANCE">
+    <Class classname="edu.cmu.cs.cs214.hw4.core.TestAlgorithmClass">
+      <SourceLine classname="edu.cmu.cs.cs214.hw4.core.TestAlgorithmClass" start="14" end="418" sourcefile="TestAlgorithmClass.java" sourcepath="edu/cmu/cs/cs214/hw4/core/TestAlgorithmClass.java"/>
+    </Class>
+    <Field classname="edu.cmu.cs.cs214.hw4.core.TestAlgorithmClass" name="board" signature="[[I" isStatic="true">
+      <SourceLine classname="edu.cmu.cs.cs214.hw4.core.TestAlgorithmClass" sourcefile="TestAlgorithmClass.java" sourcepath="edu/cmu/cs/cs214/hw4/core/TestAlgorithmClass.java"/>
+    </Field>
+  </BugInstance>
+  <BugInstance type="DM_DEFAULT_ENCODING" priority="1" rank="19" abbrev="Dm" category="I18N">
+    <Class classname="edu.cmu.cs.cs214.hw4.gui.textUI">
+      <SourceLine classname="edu.cmu.cs.cs214.hw4.gui.textUI" start="11" end="225" sourcefile="textUI.java" sourcepath="edu/cmu/cs/cs214/hw4/gui/textUI.java"/>
+    </Class>
+    <Method classname="edu.cmu.cs.cs214.hw4.gui.textUI" name="main" signature="([Ljava/lang/String;)V" isStatic="true">
+      <SourceLine classname="edu.cmu.cs.cs214.hw4.gui.textUI" start="21" end="27" startBytecode="0" endBytecode="101" sourcefile="textUI.java" sourcepath="edu/cmu/cs/cs214/hw4/gui/textUI.java"/>
+    </Method>
+    <Method classname="java.io.InputStreamReader" name="&lt;init&gt;" signature="(Ljava/io/InputStream;)V" isStatic="false" role="METHOD_CALLED">
+      <SourceLine classname="java.io.InputStreamReader" start="72" end="79" startBytecode="0" endBytecode="108" sourcefile="InputStreamReader.java" sourcepath="java/io/InputStreamReader.java"/>
+    </Method>
+    <SourceLine classname="edu.cmu.cs.cs214.hw4.gui.textUI" start="23" end="23" startBytecode="19" endBytecode="19" sourcefile="textUI.java" sourcepath="edu/cmu/cs/cs214/hw4/gui/textUI.java"/>
+  </BugInstance>
+  <BugInstance type="NM_CLASS_NAMING_CONVENTION" priority="2" rank="16" abbrev="Nm" category="BAD_PRACTICE">
+    <Class classname="edu.cmu.cs.cs214.hw4.gui.textUI">
+      <SourceLine classname="edu.cmu.cs.cs214.hw4.gui.textUI" start="11" end="225" sourcefile="textUI.java" sourcepath="edu/cmu/cs/cs214/hw4/gui/textUI.java"/>
+    </Class>
+  </BugInstance>
+  <BugInstance type="NP_DEREFERENCE_OF_READLINE_VALUE" priority="2" rank="15" abbrev="NP" category="STYLE">
+    <Class classname="edu.cmu.cs.cs214.hw4.gui.textUI">
+      <SourceLine classname="edu.cmu.cs.cs214.hw4.gui.textUI" start="11" end="225" sourcefile="textUI.java" sourcepath="edu/cmu/cs/cs214/hw4/gui/textUI.java"/>
+    </Class>
+    <Method classname="edu.cmu.cs.cs214.hw4.gui.textUI" name="move" signature="(Ljava/lang/String;Ljava/io/BufferedReader;)V" isStatic="false">
+      <SourceLine classname="edu.cmu.cs.cs214.hw4.gui.textUI" start="174" end="196" startBytecode="0" endBytecode="340" sourcefile="textUI.java" sourcepath="edu/cmu/cs/cs214/hw4/gui/textUI.java"/>
+    </Method>
+    <LocalVariable name="input" register="1" pc="36" role="LOCAL_VARIABLE_VALUE_OF"/>
+    <SourceLine classname="edu.cmu.cs.cs214.hw4.gui.textUI" start="174" end="174" startBytecode="4" endBytecode="4" sourcefile="textUI.java" sourcepath="edu/cmu/cs/cs214/hw4/gui/textUI.java"/>
+  </BugInstance>
+  <BugInstance type="NP_DEREFERENCE_OF_READLINE_VALUE" priority="2" rank="15" abbrev="NP" category="STYLE">
+    <Class classname="edu.cmu.cs.cs214.hw4.gui.textUI">
+      <SourceLine classname="edu.cmu.cs.cs214.hw4.gui.textUI" start="11" end="225" sourcefile="textUI.java" sourcepath="edu/cmu/cs/cs214/hw4/gui/textUI.java"/>
+    </Class>
+    <Method classname="edu.cmu.cs.cs214.hw4.gui.textUI" name="swap" signature="(Ljava/io/BufferedReader;)V" isStatic="false">
+      <SourceLine classname="edu.cmu.cs.cs214.hw4.gui.textUI" start="137" end="143" startBytecode="0" endBytecode="125" sourcefile="textUI.java" sourcepath="edu/cmu/cs/cs214/hw4/gui/textUI.java"/>
+    </Method>
+    <LocalVariable name="input" register="2" pc="27" role="LOCAL_VARIABLE_VALUE_OF"/>
+    <SourceLine classname="edu.cmu.cs.cs214.hw4.gui.textUI" start="141" end="141" startBytecode="28" endBytecode="28" sourcefile="textUI.java" sourcepath="edu/cmu/cs/cs214/hw4/gui/textUI.java"/>
+  </BugInstance>
+  <Errors errors="0" missingClasses="0"></Errors>
+  <FindBugsSummary timestamp="Wed, 21 Oct 2015 20:11:04 -0400" total_classes="16" referenced_classes="40" total_bugs="14" total_size="1382" num_packages="2" java_version="1.8.0_60" vm_version="25.60-b23" cpu_seconds="16.06" clock_seconds="3.53" peak_mbytes="205.18" alloc_mbytes="3641.00" gc_seconds="0.07" priority_2="9" priority_1="5">
+    <PackageStats package="edu.cmu.cs.cs214.hw4.core" total_bugs="10" total_types="15" total_size="1215" priority_2="6" priority_1="4">
+      <ClassStats class="edu.cmu.cs.cs214.hw4.core.BlankTile" sourceFile="BlankTile.java" interface="false" size="34" bugs="0"/>
+      <ClassStats class="edu.cmu.cs.cs214.hw4.core.Board" sourceFile="Board.java" interface="false" size="308" bugs="3" priority_2="2" priority_1="1"/>
+      <ClassStats class="edu.cmu.cs.cs214.hw4.core.BoomTile" sourceFile="BoomTile.java" interface="false" size="50" bugs="0"/>
+      <ClassStats class="edu.cmu.cs.cs214.hw4.core.Coord" sourceFile="Coord.java" interface="false" size="25" bugs="0"/>
+      <ClassStats class="edu.cmu.cs.cs214.hw4.core.Dictionary" sourceFile="Dictionary.java" interface="false" size="17" bugs="1" priority_1="1"/>
+      <ClassStats class="edu.cmu.cs.cs214.hw4.core.Game" sourceFile="Game.java" interface="false" size="181" bugs="1" priority_1="1"/>
+      <ClassStats class="edu.cmu.cs.cs214.hw4.core.LetterTile" sourceFile="LetterTile.java" interface="false" size="37" bugs="0"/>
+      <ClassStats class="edu.cmu.cs.cs214.hw4.core.NegativeTile" sourceFile="NegativeTile.java" interface="false" size="48" bugs="0"/>
+      <ClassStats class="edu.cmu.cs.cs214.hw4.core.Player" sourceFile="Player.java" interface="false" size="47" bugs="1" priority_2="1"/>
+      <ClassStats class="edu.cmu.cs.cs214.hw4.core.ReverseTile" sourceFile="ReverseTile.java" interface="false" size="49" bugs="0"/>
+      <ClassStats class="edu.cmu.cs.cs214.hw4.core.ShuffleTile" sourceFile="ShuffleTile.java" interface="false" size="47" bugs="0"/>
+      <ClassStats class="edu.cmu.cs.cs214.hw4.core.SpecialTile" sourceFile="SpecialTile.java" interface="true" size="10" bugs="0"/>
+      <ClassStats class="edu.cmu.cs.cs214.hw4.core.Square" sourceFile="Square.java" interface="false" size="62" bugs="0"/>
+      <ClassStats class="edu.cmu.cs.cs214.hw4.core.TestAlgorithmClass" sourceFile="TestAlgorithmClass.java" interface="false" size="293" bugs="4" priority_2="3" priority_1="1"/>
+      <ClassStats class="edu.cmu.cs.cs214.hw4.core.Tile" sourceFile="Tile.java" interface="true" size="7" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="edu.cmu.cs.cs214.hw4.gui" total_bugs="4" total_types="1" total_size="167" priority_2="3" priority_1="1">
+      <ClassStats class="edu.cmu.cs.cs214.hw4.gui.textUI" sourceFile="textUI.java" interface="false" size="167" bugs="4" priority_2="3" priority_1="1"/>
+    </PackageStats>
+    <FindBugsProfile>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="235" invocations="480" avgMicrosecondsPerInvocation="491" maxMicrosecondsPerInvocation="20436" standardDeviationMircosecondsPerInvocation="1267"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.UnconditionalValueDerefDataflowFactory" totalMilliseconds="232" invocations="165" avgMicrosecondsPerInvocation="1411" maxMicrosecondsPerInvocation="31429" standardDeviationMircosecondsPerInvocation="3838"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="207" invocations="165" avgMicrosecondsPerInvocation="1259" maxMicrosecondsPerInvocation="17904" standardDeviationMircosecondsPerInvocation="2699"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory" totalMilliseconds="177" invocations="169" avgMicrosecondsPerInvocation="1049" maxMicrosecondsPerInvocation="17495" standardDeviationMircosecondsPerInvocation="2398"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.NullDerefAndRedundantComparisonFinder" totalMilliseconds="163" invocations="165" avgMicrosecondsPerInvocation="988" maxMicrosecondsPerInvocation="13686" standardDeviationMircosecondsPerInvocation="1888"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.TypeDataflowFactory" totalMilliseconds="158" invocations="168" avgMicrosecondsPerInvocation="943" maxMicrosecondsPerInvocation="12610" standardDeviationMircosecondsPerInvocation="1951"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindRefComparison$SpecialTypeAnalysis" totalMilliseconds="138" invocations="95" avgMicrosecondsPerInvocation="1462" maxMicrosecondsPerInvocation="22141" standardDeviationMircosecondsPerInvocation="3049"/>
+      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="125" invocations="329" avgMicrosecondsPerInvocation="382" maxMicrosecondsPerInvocation="11957" standardDeviationMircosecondsPerInvocation="883"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="103" invocations="40" avgMicrosecondsPerInvocation="2593" maxMicrosecondsPerInvocation="20156" standardDeviationMircosecondsPerInvocation="4256"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.CFGFactory" totalMilliseconds="95" invocations="165" avgMicrosecondsPerInvocation="579" maxMicrosecondsPerInvocation="12720" standardDeviationMircosecondsPerInvocation="1245"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.StreamResourceTracker" totalMilliseconds="73" invocations="75" avgMicrosecondsPerInvocation="981" maxMicrosecondsPerInvocation="6686" standardDeviationMircosecondsPerInvocation="916"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.MethodGenFactory" totalMilliseconds="65" invocations="180" avgMicrosecondsPerInvocation="362" maxMicrosecondsPerInvocation="39955" standardDeviationMircosecondsPerInvocation="2966"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ConstantDataflowFactory" totalMilliseconds="57" invocations="165" avgMicrosecondsPerInvocation="349" maxMicrosecondsPerInvocation="6395" standardDeviationMircosecondsPerInvocation="809"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindOpenStream" totalMilliseconds="46" invocations="16" avgMicrosecondsPerInvocation="2891" maxMicrosecondsPerInvocation="11754" standardDeviationMircosecondsPerInvocation="3830"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.LiveLocalStoreDataflowFactory" totalMilliseconds="42" invocations="165" avgMicrosecondsPerInvocation="259" maxMicrosecondsPerInvocation="8076" standardDeviationMircosecondsPerInvocation="746"/>
+      <ClassProfile name="edu.umd.cs.findbugs.util.TopologicalSort" totalMilliseconds="41" invocations="444" avgMicrosecondsPerInvocation="93" maxMicrosecondsPerInvocation="2502" standardDeviationMircosecondsPerInvocation="187"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassDataAnalysisEngine" totalMilliseconds="41" invocations="481" avgMicrosecondsPerInvocation="86" maxMicrosecondsPerInvocation="1258" standardDeviationMircosecondsPerInvocation="151"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.JavaClassAnalysisEngine" totalMilliseconds="38" invocations="46" avgMicrosecondsPerInvocation="829" maxMicrosecondsPerInvocation="17581" standardDeviationMircosecondsPerInvocation="2588"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.URLProblems" totalMilliseconds="37" invocations="16" avgMicrosecondsPerInvocation="2356" maxMicrosecondsPerInvocation="15689" standardDeviationMircosecondsPerInvocation="3931"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.NoteDirectlyRelevantTypeQualifiers" totalMilliseconds="31" invocations="40" avgMicrosecondsPerInvocation="794" maxMicrosecondsPerInvocation="10662" standardDeviationMircosecondsPerInvocation="1782"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.DefaultEncodingDetector" totalMilliseconds="30" invocations="16" avgMicrosecondsPerInvocation="1890" maxMicrosecondsPerInvocation="13209" standardDeviationMircosecondsPerInvocation="3456"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.OverridingEqualsNotSymmetrical" totalMilliseconds="28" invocations="40" avgMicrosecondsPerInvocation="704" maxMicrosecondsPerInvocation="11930" standardDeviationMircosecondsPerInvocation="1894"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.DumbMethods" totalMilliseconds="28" invocations="16" avgMicrosecondsPerInvocation="1750" maxMicrosecondsPerInvocation="9636" standardDeviationMircosecondsPerInvocation="2427"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.UnreadFields" totalMilliseconds="26" invocations="16" avgMicrosecondsPerInvocation="1628" maxMicrosecondsPerInvocation="5382" standardDeviationMircosecondsPerInvocation="1579"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FunctionsThatMightBeMistakenForProcedures" totalMilliseconds="25" invocations="40" avgMicrosecondsPerInvocation="636" maxMicrosecondsPerInvocation="6498" standardDeviationMircosecondsPerInvocation="1366"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildObligationPolicyDatabase" totalMilliseconds="25" invocations="40" avgMicrosecondsPerInvocation="635" maxMicrosecondsPerInvocation="7465" standardDeviationMircosecondsPerInvocation="1361"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindDeadLocalStores" totalMilliseconds="23" invocations="16" avgMicrosecondsPerInvocation="1458" maxMicrosecondsPerInvocation="7092" standardDeviationMircosecondsPerInvocation="1827"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindInconsistentSync2" totalMilliseconds="21" invocations="16" avgMicrosecondsPerInvocation="1370" maxMicrosecondsPerInvocation="5070" standardDeviationMircosecondsPerInvocation="1542"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindSelfComparison" totalMilliseconds="19" invocations="16" avgMicrosecondsPerInvocation="1233" maxMicrosecondsPerInvocation="6237" standardDeviationMircosecondsPerInvocation="1835"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.SwitchFallthrough" totalMilliseconds="18" invocations="16" avgMicrosecondsPerInvocation="1176" maxMicrosecondsPerInvocation="8441" standardDeviationMircosecondsPerInvocation="2039"/>
+    </FindBugsProfile>
+  </FindBugsSummary>
+  <ClassFeatures></ClassFeatures>
+  <History></History>
+</BugCollection>

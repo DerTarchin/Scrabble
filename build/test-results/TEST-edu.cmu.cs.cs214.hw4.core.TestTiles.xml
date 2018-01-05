@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.cmu.cs.cs214.hw4.core.TestTiles" tests="3" skipped="0" failures="0" errors="0" timestamp="2015-11-01T03:46:34" hostname="MacBook-Pro-6.wv.cc.cmu.edu" time="0.001">
+  <properties/>
+  <testcase name="testSpecialTile" classname="edu.cmu.cs.cs214.hw4.core.TestTiles" time="0.0"/>
+  <testcase name="testCoord" classname="edu.cmu.cs.cs214.hw4.core.TestTiles" time="0.0"/>
+  <testcase name="testTile" classname="edu.cmu.cs.cs214.hw4.core.TestTiles" time="0.0"/>
+  <system-out><![CDATA[Passed special tile test
+Passed coord test
+Passed tile test
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

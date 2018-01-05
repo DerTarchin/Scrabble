@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.2">
+<file name="/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/BlankTile.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/Board.java">
+<error line="60" column="50" severity="error" message="Expected @param tag for &apos;turn&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="541" column="12" severity="error" message="Unused @param tag for &apos;dir&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="545" column="53" severity="error" message="Expected @param tag for &apos;dirPlaced&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="545" column="71" severity="error" message="Expected @param tag for &apos;dirCheck&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/BoomTile.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/Coord.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/Dictionary.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/FlipTile.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/Game.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/LetterTile.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/Move.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/NegativeTile.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/Player.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/ReverseTile.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/ShuffleTile.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/SpecialTile.java">
+<error line="45" column="12" severity="error" message="Unused @param tag for &apos;turnScore&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="49" column="41" severity="error" message="Expected @param tag for &apos;move&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/Square.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/Tile.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/AddPlayers.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BuySpecials.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/GameInfo.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/GameWindow.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/NotificationScreen.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/Scrabble.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/SetupGame.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/SetupHints.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/SplashScreen.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/Util.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/Window.java">
+<error line="5" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTypeCheck"/>
+<error line="7" column="9" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="9" column="9" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/WordChecker.java">
+<error line="55" column="50" severity="error" message="Must have at least one statement." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyBlockCheck"/>
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/hizalc/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/textUI.java">
+<error line="9" severity="error" message="Using the &apos;.*&apos; form of import should be avoided - edu.cmu.cs.cs214.hw4.core.*." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"/>
+<error line="17" column="14" severity="error" message="Name &apos;textUI&apos; must match pattern &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="19" column="23" severity="error" message="Variable &apos;resources&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="20" column="20" severity="error" message="Variable &apos;boardLength&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="21" column="20" severity="error" message="Variable &apos;rackSize&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="22" column="21" severity="error" message="Variable &apos;game&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="23" column="23" severity="error" message="Variable &apos;rand&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="31" column="42" severity="error" message="Expected @param tag for &apos;args&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="31" column="55" severity="error" message="Expected @throws tag for &apos;IOException&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+</checkstyle>

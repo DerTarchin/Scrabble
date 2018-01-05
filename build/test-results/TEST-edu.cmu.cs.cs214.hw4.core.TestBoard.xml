@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.cmu.cs.cs214.hw4.core.TestBoard" tests="3" skipped="0" failures="0" errors="0" timestamp="2015-11-01T03:46:32" hostname="MacBook-Pro-6.wv.cc.cmu.edu" time="1.091">
+  <properties/>
+  <testcase name="testBoard" classname="edu.cmu.cs.cs214.hw4.core.TestBoard" time="0.415"/>
+  <testcase name="testDictionary" classname="edu.cmu.cs.cs214.hw4.core.TestBoard" time="0.355"/>
+  <testcase name="testSquare" classname="edu.cmu.cs.cs214.hw4.core.TestBoard" time="0.32"/>
+  <system-out><![CDATA[4 - - 1 - - - 4 - - - 1 - - 4 
+- 3 - - - 2 - - - 2 - - - 3 - 
+- - 3 - - - 1 - 1 - - - 3 - - 
+1 - - 3 - - - 1 - - - 3 - - 1 
+- - - - 3 - - - - - 3 - - - - 
+- 2 - - - 2 - - - 2 - - - 2 - 
+- - 1 - - - 1 - 1 - - - 1 - - 
+4 - - 1 - - - C - - - 1 - - 4 
+- - 1 - - - R A G - - - 1 - - 
+- 2 - - - 2 - T - 2 - - - 2 - 
+- - - - 3 - - - - - 3 - - - - 
+1 - - 3 - - - 1 - - - 3 - - 1 
+- - 3 - - - 1 - 1 - - - 3 - - 
+- 3 - - - 2 - - - 2 - - - 3 - 
+4 - - 1 - - - 4 - - - 1 - - 4 
+
+File not found: src/main/nonexistant/words_scrabble.txt
+File not found: src/main/nonexistant/scoremodifiers.txt
+Passed board test
+File not found: src/main/nonexistant/words.txt
+Passed dictionary test
+Passed square test
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

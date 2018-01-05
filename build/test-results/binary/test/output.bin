@@ -1,0 +1,34 @@
+4 - - 1 - - - 4 - - - 1 - - 4 
+- 3 - - - 2 - - - 2 - - - 3 - 
+- - 3 - - - 1 - 1 - - - 3 - - 
+1 - - 3 - - - 1 - - - 3 - - 1 
+- - - - 3 - - - - - 3 - - - - 
+- 2 - - - 2 - - - 2 - - - 2 - 
+- - 1 - - - 1 - 1 - - - 1 - - 
+4 - - 1 - - - C - - - 1 - - 4 
+- - 1 - - - R A G - - - 1 - - 
+- 2 - - - 2 - T - 2 - - - 2 - 
+- - - - 3 - - - - - 3 - - - - 
+1 - - 3 - - - 1 - - - 3 - - 1 
+- - 3 - - - 1 - 1 - - - 3 - - 
+- 3 - - - 2 - - - 2 - - - 3 - 
+4 - - 1 - - - 4 - - - 1 - - 4 
+
+8File not found: src/main/nonexistant/words_scrabble.txt
+8File not found: src/main/nonexistant/scoremodifiers.txt
+Passed board test
+/File not found: src/main/nonexistant/words.txt
+Passed dictionary test
+Passed square test
+Passed specials test
+8File not found: src/main/nonexistant/words_scrabble.txt
+8File not found: src/main/nonexistant/scoremodifiers.txt
+/File not found: src/main/nonexistant/tiles.txt
+Passed game test
+Passed player test
+
+	Passed special tile test
+
+Passed coord test
+
+Passed tile test
